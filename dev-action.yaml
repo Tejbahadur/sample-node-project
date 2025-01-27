@@ -1,0 +1,6 @@
+name: dev instance workflow
+
+on: push
+
+jobs:
+  
