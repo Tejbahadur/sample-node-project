@@ -10,4 +10,6 @@ jobs:
     steps:
     - name: "clone code respo"
       uses: actions/checkout@v4
+    - name: "print message"
+      run: echo "cloned the repo"
     
